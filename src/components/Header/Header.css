@@ -1,0 +1,9 @@
+.header {
+  color: blue;
+  /* font-family: "Cabinet Grotesk Regular"; */
+  background-color: black;
+}
+
+.header__title {
+  padding: 0;
+}
